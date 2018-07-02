@@ -101,8 +101,6 @@ print('>> Input : 너본지꽤된듯')
 correct('너본지꽤된듯')
 print('>> Input : 뭣이중헌지도모름서')
 correct('뭣이중헌지도모름서')
-print('>> Input : 엄마가죽을병에넣어뒀어')
-correct('엄마가죽을병에넣어뒀어')
 print('>> Input : 나얼만큼사랑해')
 correct('나얼만큼사랑해')
 
