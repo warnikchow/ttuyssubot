@@ -5,7 +5,7 @@ Contextual Spacing for Conversation-style (and non-normalized) Text
 fasttext, Keras (TensorFlow), Numpy
 
 ## Word Vector 
-https://drive.google.com/file/d/1PE7RWIjLyBaBdrLg_ybUpnoJAvibkrXY/view?usp=sharing
+https://drive.google.com/open?id=1jHbjOcnaLourFzNuP47yGQVhBTq6Wgor
 * Download this and unzip THE FOLDER in the same folder with 'csct.py' 
 * Loading the model will be processed by load_model('vectors/model')
 
