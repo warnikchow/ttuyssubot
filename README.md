@@ -18,4 +18,5 @@ https://drive.google.com/open?id=1jHbjOcnaLourFzNuP47yGQVhBTq6Wgor
 - ex3) 뭣이중헌지도모름서 >> "뭣이 중헌지도 모름서"
 - ex4) 나얼만큼사랑해 >> "나 얼만큼 사랑해"
 * The spacing may not be strictly correct, but the system was trained in a way to give a plausible duration for speech synthesis, in the aspect of a non-canonical spoken language.
-
+* Importing library: Python3 execute file
+<pre><code> from csct_dist import correct as cor </code></pre>
