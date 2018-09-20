@@ -20,3 +20,4 @@ https://drive.google.com/open?id=1jHbjOcnaLourFzNuP47yGQVhBTq6Wgor
 * The spacing may not be strictly correct, but the system was trained in a way to give a plausible duration for speech synthesis, in the aspect of a non-canonical spoken language.
 * Importing automatic spacer
 <pre><code> from csct_dist import correct as cor </code></pre>
+* This library targets user-generated noisy texts; for the spacing of literary style texts, refer to https://github.com/haven-jeon/PyKoSpacing
