@@ -21,7 +21,7 @@ https://drive.google.com/open?id=1jHbjOcnaLourFzNuP47yGQVhBTq6Wgor
 * Importing automatic spacer
 <pre><code> from csct_dist import correct as cor </code></pre>
 
-## Reference
+## Reference (as a toolkit)
 * 조원익, 천성준, 김지원, 김남수, "문장 정보를 고려한 딥 러닝 기반 자동 띄어쓰기의 개념 및 활용," 제30회 한글 및 한국어 정보처리 학술대회 논문집, 2018, pp. 181-184.
 * W. I. Cho, S. J. Cheon, J. W. Kim, and N. S. Kim, "Concept and application of deep learning-based automatic spacing," HCLT 2018, pp. 181-184.
 ### DISCLAIMER: This model is trained with drama scripts and targets user-generated noisy texts; for the accurate spacing of literary style texts, refer to PyKoSpacing https://github.com/haven-jeon/PyKoSpacing
