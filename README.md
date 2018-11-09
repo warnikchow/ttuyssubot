@@ -32,6 +32,7 @@ fasttext, Keras (TensorFlow), Numpy
   year={2018}
 }
 ```
+* For English version, check [RAWS](https://github.com/warnikchow/raws)
 ### DISCLAIMER: This model is trained with drama scripts and targets user-generated noisy texts; for the accurate spacing of literary style texts, refer to [PyKoSpacing](https://github.com/haven-jeon/PyKoSpacing)
 
 ## Demonstration
