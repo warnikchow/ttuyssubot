@@ -22,7 +22,7 @@ fasttext, Keras (TensorFlow), Numpy
 <pre><code> from csct_dist import correct as cor </code></pre>
 
 ## Reference (as a toolkit)
-* 조원익, 천성준, 김지원, 김남수, "문장 정보를 고려한 딥 러닝 기반 자동 띄어쓰기의 개념 및 활용," 제30회 한글 및 한국어 정보처리 학술대회 논문집, 2018, pp. 181-184. [[Paper]](https://s3.ap-northeast-2.amazonaws.com/journal-home/site/hclt/HCLT+2018_%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%E1%84%8C%E1%85%B5%E1%86%B8(%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC).pdf) [[Slide]](https://www.slideshare.net/WonIkCho/warnik-chow-2018-hclt-119690256)
+* 조원익, 천성준, 김지원, 김남수, "문장 정보를 고려한 딥 러닝 기반 자동 띄어쓰기의 개념 및 활용," 제30회 한글 및 한국어 정보처리 학술대회 논문집, 2018, pp. 181-184. [[Paper]](http://www.koreascience.or.kr/article/CFKO201832073078638.page) [[Slide]](https://www.slideshare.net/WonIkCho/warnik-chow-2018-hclt-119690256)
 ```
 @inproceedings{cho2018concept,
   title={Concept and Application of Deep learning-based Automatic Spacing},
