@@ -27,9 +27,10 @@ fasttext, Keras (TensorFlow), Numpy
 @inproceedings{cho2018concept,
   title={Concept and Application of Deep learning-based Automatic Spacing},
   author={Cho, Won Ik and Cheon, Sung Jun and Kim, Ji Won and Kim, Nam Soo},
-  booktitle={Proceedings of the 30th Annual Conference on Human \& Cognitive Language Technology},
+  booktitle={Annual Conference on Human and Language Technology},
   pages={181--184},
-  year={2018}
+  year={2018},
+  organization={Human and Language Technology}
 }
 ```
 * For English version, check [RAWS](https://github.com/warnikchow/raws)
